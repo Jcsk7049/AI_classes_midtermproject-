@@ -1,0 +1,6 @@
+﻿.venv/
+.venv312/
+fruits_repo/
+saved_models/
+__pycache__/
+*.pyc
